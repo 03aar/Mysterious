@@ -1,0 +1,5 @@
+{
+  "name": "MysticCartographer",
+  "description": "A mysterious location generator for open-world exploration, utilizing Gemini to craft deep lore, atmospheric descriptions, and visual concepts for unique game environments.",
+  "requestFramePermissions": []
+}
